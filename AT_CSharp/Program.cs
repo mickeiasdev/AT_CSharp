@@ -7,10 +7,11 @@ namespace AT_CSharp
         static void Main(string[] args)
         {
             Console.WriteLine(">>> EXECUTANDO <<<");
+            Console.WriteLine();
 
-            Exercicio1.Run();
+            //Exercicio1.Run();
 
-            // Exercicio2.Run();
+             //Exercicio2.Run();
             // Exercicio3.Run();
             // Exercicio4.Run();
             // Exercicio5.Run();
@@ -22,7 +23,8 @@ namespace AT_CSharp
 
             // Exercicio9.Run();
             // Exercicio10.Run();
-            // Exercicio11e12.Run();
+             //Exercicio11.Run();
+            Exercicio12.Run();
 
             Console.WriteLine("\nExecução finalizada. Pressione qualquer tecla para sair...");
             Console.ReadKey();
